@@ -1,4 +1,4 @@
-# delete_zotero_zoffile_pdfs
+# delete_zotero_zotfile_pdfs
   
 1.将GUI.py和main.py存放到同一目录。其中GUI为生成界面的代码。main为主程序。
 
